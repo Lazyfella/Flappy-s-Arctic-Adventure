@@ -1,8 +1,8 @@
 /// @description
 
-grv = 0.2;
+grv = 0.4;
 hsp = 0;
 vsp = 0;
-hspWalk = 3.5;
+hspWalk = 2.5;
 vspJump = -6;
 canJump = 0;
