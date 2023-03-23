@@ -1,0 +1,9 @@
+{
+  "FolderOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"sWall","order":6,"path":"sprites/sWall/sWall.yy",},
+    {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
+    {"name":"sPlayer","order":5,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"r_level1","order":1,"path":"rooms/r_level1/r_level1.yy",},
+  ],
+}
