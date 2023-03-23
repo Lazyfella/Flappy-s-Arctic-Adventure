@@ -1,11 +1,15 @@
 {
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
+    {"name":"pingvinh_ger","order":11,"path":"sprites/pingvinh_ger/pingvinh_ger.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
     {"name":"sWall","order":6,"path":"sprites/sWall/sWall.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
     {"name":"sPlayer","order":5,"path":"sprites/sPlayer/sPlayer.yy",},
+    {"name":"pingvinstilla","order":9,"path":"sprites/pingvinstilla/pingvinstilla.yy",},
+    {"name":"pingvinv_nster","order":10,"path":"sprites/pingvinv_nster/pingvinv_nster.yy",},
     {"name":"sCamera","order":7,"path":"sprites/sCamera/sCamera.yy",},
     {"name":"r_level1","order":1,"path":"rooms/r_level1/r_level1.yy",},
+    {"name":"icebackground","order":8,"path":"sprites/icebackground/icebackground.yy",},
   ],
 }

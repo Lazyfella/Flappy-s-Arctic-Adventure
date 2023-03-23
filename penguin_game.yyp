@@ -33,12 +33,16 @@
     "IDEVersion": "2023.2.0.71",
   },
   "resources": [
+    {"id":{"name":"pingvinh_ger","path":"sprites/pingvinh_ger/pingvinh_ger.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"sWall","path":"sprites/sWall/sWall.yy",},},
     {"id":{"name":"oWall","path":"objects/oWall/oWall.yy",},},
     {"id":{"name":"sPlayer","path":"sprites/sPlayer/sPlayer.yy",},},
+    {"id":{"name":"pingvinstilla","path":"sprites/pingvinstilla/pingvinstilla.yy",},},
+    {"id":{"name":"pingvinv_nster","path":"sprites/pingvinv_nster/pingvinv_nster.yy",},},
     {"id":{"name":"sCamera","path":"sprites/sCamera/sCamera.yy",},},
     {"id":{"name":"r_level1","path":"rooms/r_level1/r_level1.yy",},},
+    {"id":{"name":"icebackground","path":"sprites/icebackground/icebackground.yy",},},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
   ],
   "RoomOrderNodes": [
