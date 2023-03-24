@@ -1,10 +1,23 @@
-/// @description Insert description here
-// You can write your code in this editor
 
 //Get inputs
 var _keyRight = keyboard_check(vk_right);
 var _keyLeft = keyboard_check(vk_left);
-var _keyJump = keyboard_check(vk_space);
+var _keyJump = keyboard_check_pressed(vk_space);
+
+if (keyboard_check(vk_right))
+{
+	sprite_index = sPlayer_right;
+	image_xscale = 1;
+}
+else if (keyboard_check(vk_left))
+{
+	sprite_index = sPlayer_right;
+	image_xscale = -1;
+}
+else
+{
+	sprite_index = sPlayer_idle;
+}
 
 //Work out where to move horizontally (This is setting the speed, might cause issues with other movement inpacts)
 hsp = (_keyRight - _keyLeft) * hspWalk;
@@ -17,6 +30,14 @@ if (canJump-- > 0) && (_keyJump)
 {
 	vsp = vspJump;
 	canJump = 0;
+	jumpCount = 1;
+	//show_message("jump1");
+}
+else if (jumpCount == 1 && _keyJump) //if in midair and spacebar is pressed again, do a small jump
+{
+    vsp = -7;
+    jumpCount = 2; //set the jump count to 2 after the second jump
+	//show_message("jump2");
 }
 
 //Collide and Move

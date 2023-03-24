@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "pingvinstilla",
-    "path": "sprites/pingvinstilla/pingvinstilla.yy",
+    "name": "sPlayer_idle",
+    "path": "sprites/sPlayer_idle/sPlayer_idle.yy",
   },
   "spriteMaskId": null,
   "visible": true,
