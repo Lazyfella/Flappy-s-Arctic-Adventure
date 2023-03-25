@@ -1,6 +1,6 @@
 /// @description
 camWidth = 640;
-camHeight = 360;
+camHeight = 480;
 
 follow = oPlayer;
 
