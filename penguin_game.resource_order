@@ -2,8 +2,10 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"sPlayer_right","order":6,"path":"sprites/sPlayer_right/sPlayer_right.yy",},
+    {"name":"oHazard","order":3,"path":"objects/oHazard/oHazard.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
     {"name":"platformtile","order":8,"path":"sprites/platformtile/platformtile.yy",},
+    {"name":"Sprite12","order":2,"path":"sprites/Sprite12/Sprite12.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
     {"name":"platformleftcorner","order":9,"path":"sprites/platformleftcorner/platformleftcorner.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
@@ -12,6 +14,7 @@
     {"name":"sPlayer_left","order":5,"path":"sprites/sPlayer_left/sPlayer_left.yy",},
     {"name":"sCamera","order":2,"path":"sprites/sCamera/sCamera.yy",},
     {"name":"r_level1","order":1,"path":"rooms/r_level1/r_level1.yy",},
+    {"name":"sHazard","order":10,"path":"sprites/sHazard/sHazard.yy",},
     {"name":"icebackground","order":3,"path":"sprites/icebackground/icebackground.yy",},
   ],
 }

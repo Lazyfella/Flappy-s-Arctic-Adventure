@@ -1,12 +1,8 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oPlayer",
-  "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"oHazard","path":"objects/oHazard/oHazard.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
-  ],
+  "name": "oHazard",
+  "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
@@ -30,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sPlayer_idle",
-    "path": "sprites/sPlayer_idle/sPlayer_idle.yy",
+    "name": "sHazard",
+    "path": "sprites/sHazard/sHazard.yy",
   },
   "spriteMaskId": null,
   "visible": true,
