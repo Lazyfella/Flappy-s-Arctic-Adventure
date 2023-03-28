@@ -36,6 +36,7 @@
     {"id":{"name":"sIcespikes","path":"sprites/sIcespikes/sIcespikes.yy",},},
     {"id":{"name":"oSpawn_ice_spikes","path":"objects/oSpawn_ice_spikes/oSpawn_ice_spikes.yy",},},
     {"id":{"name":"sPlayer_right","path":"sprites/sPlayer_right/sPlayer_right.yy",},},
+    {"id":{"name":"oHazard","path":"objects/oHazard/oHazard.yy",},},
     {"id":{"name":"oCamera","path":"objects/oCamera/oCamera.yy",},},
     {"id":{"name":"platformtile","path":"sprites/platformtile/platformtile.yy",},},
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},

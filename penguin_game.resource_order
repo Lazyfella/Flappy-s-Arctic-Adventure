@@ -4,6 +4,7 @@
     {"name":"sIcespikes","order":10,"path":"sprites/sIcespikes/sIcespikes.yy",},
     {"name":"oSpawn_ice_spikes","order":3,"path":"objects/oSpawn_ice_spikes/oSpawn_ice_spikes.yy",},
     {"name":"sPlayer_right","order":6,"path":"sprites/sPlayer_right/sPlayer_right.yy",},
+    {"name":"oHazard","order":3,"path":"objects/oHazard/oHazard.yy",},
     {"name":"oCamera","order":2,"path":"objects/oCamera/oCamera.yy",},
     {"name":"platformtile","order":8,"path":"sprites/platformtile/platformtile.yy",},
     {"name":"sWall","order":1,"path":"sprites/sWall/sWall.yy",},
