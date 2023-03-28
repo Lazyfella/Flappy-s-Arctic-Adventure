@@ -28,7 +28,10 @@
   "physicsStartAwake": true,
   "properties": [],
   "solid": false,
-  "spriteId": null,
+  "spriteId": {
+    "name": "sPew",
+    "path": "sprites/sPew/sPew.yy",
+  },
   "spriteMaskId": null,
   "visible": true,
 }

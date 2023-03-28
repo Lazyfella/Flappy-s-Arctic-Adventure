@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "oHazard",
+  "name": "oTraps",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sHazard",
-    "path": "sprites/sHazard/sHazard.yy",
+    "name": "sTraps",
+    "path": "sprites/sTraps/sTraps.yy",
   },
   "spriteMaskId": null,
   "visible": true,
