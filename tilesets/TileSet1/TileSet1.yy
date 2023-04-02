@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "platformtile",
-    "path": "sprites/platformtile/platformtile.yy",
+    "name": "sPlatformtile",
+    "path": "sprites/sPlatformtile/sPlatformtile.yy",
   },
   "spriteNoExport": true,
   "textureGroupId": {
