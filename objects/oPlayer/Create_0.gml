@@ -8,3 +8,5 @@ hspWalk = 1;
 vspJump = -7;
 canJump = 0;
 jumpCount = 0;
+ hp_current = 5;
+ hp_max = 5;
