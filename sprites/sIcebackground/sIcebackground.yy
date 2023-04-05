@@ -2,7 +2,7 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "sIcebackground",
-  "bbox_bottom": 767,
+  "bbox_bottom": 569,
   "bbox_left": 0,
   "bbox_right": 1365,
   "bbox_top": 0,
@@ -17,7 +17,7 @@
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 768,
+  "height": 570,
   "HTile": false,
   "layers": [
     {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"d2b1c4fe-1490-4e0a-8504-81ba582c870c","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},

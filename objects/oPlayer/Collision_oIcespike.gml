@@ -6,12 +6,12 @@
         hp_current = 0;
     }
     // update array with new image_index
-    for (var hearts = 0; hearts < obj_hearts.maxHearts ; hearts++) {
-        if (hp_current < obj_hearts.a_hearts[hearts, obj_hearts.e_hearts.full_value]) {
-            obj_hearts.a_hearts[hearts, obj_hearts.e_hearts.index] = 1;
+    for (var hearts = 0; hearts < oHearts.maxHearts ; hearts++) {
+        if (hp_current < oHearts.a_hearts[hearts, oHearts.e_hearts.full_value]) {
+            oHearts.a_hearts[hearts, oHearts.e_hearts.index] = 1;
         }
-        if (hp_current < obj_hearts.a_hearts[hearts, obj_hearts.e_hearts.halv_value]) {
-            obj_hearts.a_hearts[hearts, obj_hearts.e_hearts.index] = 0;
+        if (hp_current < oHearts.a_hearts[hearts, oHearts.e_hearts.halv_value]) {
+            oHearts.a_hearts[hearts, oHearts.e_hearts.index] = 0;
         }
     }
 instance_destroy(oIcespike);

@@ -1,1 +1,0 @@
-audio_play_sound(Sound_theme_music,10,1);

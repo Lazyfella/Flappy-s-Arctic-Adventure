@@ -12,8 +12,8 @@
   "conversionMode": 0,
   "duration": 44.413967,
   "parent": {
-    "name": "penguin_game",
-    "path": "penguin_game.yyp",
+    "name": "Sounds",
+    "path": "folders/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,
