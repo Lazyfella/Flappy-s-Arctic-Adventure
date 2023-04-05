@@ -16,6 +16,7 @@
     {"name":"oGame","order":1,"path":"objects/oGame/oGame.yy",},
     {"name":"oIcespike","order":5,"path":"objects/oIcespike/oIcespike.yy",},
     {"name":"sIgloo","order":13,"path":"sprites/sIgloo/sIgloo.yy",},
+    {"name":"snd_nom","order":1,"path":"sounds/snd_nom/snd_nom.yy",},
     {"name":"oSnowball","order":4,"path":"objects/oSnowball/oSnowball.yy",},
     {"name":"sPlatformleftcorner","order":8,"path":"sprites/sPlatformleftcorner/sPlatformleftcorner.yy",},
     {"name":"sFish","order":24,"path":"sprites/sFish/sFish.yy",},
@@ -38,6 +39,7 @@
     {"name":"sPew","order":3,"path":"sprites/sPew/sPew.yy",},
     {"name":"oIgloo","order":8,"path":"objects/oIgloo/oIgloo.yy",},
     {"name":"sPlayer_slide","order":16,"path":"sprites/sPlayer_slide/sPlayer_slide.yy",},
+    {"name":"oFish","order":13,"path":"objects/oFish/oFish.yy",},
     {"name":"oParallax","order":4,"path":"objects/oParallax/oParallax.yy",},
   ],
 }
