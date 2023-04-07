@@ -1,5 +1,6 @@
 /// @description
 
 // Draw the score
-draw_text(16, 32, "Score: " + string(global.score) + " / " + string(global.max_score));
+draw_sprite(sFish, 0, 25, 50);
+draw_text(60, 54, string(global.score) + " / " + string(global.max_score));
 
