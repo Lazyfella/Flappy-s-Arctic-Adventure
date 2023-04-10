@@ -1,4 +1,5 @@
 // Update position based on speed and direction
+event_inherited();
 x += lengthdir_x(speed, direction);
 y += lengthdir_y(speed, direction);
 

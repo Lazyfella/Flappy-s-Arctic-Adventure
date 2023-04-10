@@ -9,10 +9,13 @@
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "Enemies",
+    "path": "folders/Objects/Enemies.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "oEnemy_Parent",
+    "path": "objects/oEnemy_Parent/oEnemy_Parent.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,

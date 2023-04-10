@@ -1,4 +1,5 @@
 // check for collision with obj_icespike
+
 if (place_meeting(x, y, oIcespike)) {
     damage = irandom_range(5, 20);
     if (hp_current - damage >= 0) {

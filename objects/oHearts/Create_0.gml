@@ -1,3 +1,4 @@
+
 maxHearts = 5; 
 
     enum e_hearts {

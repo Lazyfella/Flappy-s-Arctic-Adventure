@@ -79,3 +79,4 @@ if (canJump > 0)
 if (abs(hsp) > maxHsp) {
     hsp = sign(hsp) * maxHsp;
 }
+

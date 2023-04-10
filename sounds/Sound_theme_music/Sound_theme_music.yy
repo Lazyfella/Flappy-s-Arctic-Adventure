@@ -19,5 +19,5 @@
   "sampleRate": 44100,
   "soundFile": "Sound_theme_music.wav",
   "type": 0,
-  "volume": 0.0,
+  "volume": 0.25,
 }
