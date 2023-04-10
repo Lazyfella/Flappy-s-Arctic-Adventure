@@ -28,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sIgloo",
-    "path": "sprites/sIgloo/sIgloo.yy",
+    "name": "igloonew",
+    "path": "sprites/igloonew/igloonew.yy",
   },
   "spriteMaskId": null,
   "visible": true,
