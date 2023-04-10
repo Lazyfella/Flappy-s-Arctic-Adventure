@@ -1,2 +1,17 @@
-/// @description Insert description here
-// You can write your code in this editor
+/// @description
+if (is_enabled) {
+    is_enabled = false;
+    
+    global.chchpoint_x = x + 25;
+    global.chchpoint_y = y;
+    
+    // Delete all other instances of oFlag in the room
+    with(oFlag) {
+        if (id != other.id) {
+            instance_destroy();
+        }
+    }
+    
+    // Spawn a new oFlag instance
+    instance_create_depth(x + 30, y, depth + 1, oFlag);
+}

@@ -1,4 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
-instance_destroy();
-room_restart();
+
+target = noone;
+
+has_triggered = false;

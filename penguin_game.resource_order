@@ -2,6 +2,7 @@
   "FolderOrderSettings": [
     {"name":"Systems","order":12,"path":"folders/Objects/Systems.yy",},
     {"name":"Enemies","order":25,"path":"folders/Sprites/Enemies.yy",},
+    {"name":"Checkpoint","order":14,"path":"folders/Objects/Checkpoint.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"sParallax2","order":15,"path":"sprites/sParallax2/sParallax2.yy",},
@@ -9,12 +10,14 @@
     {"name":"oSpawn_ice_spikes","order":3,"path":"objects/oSpawn_ice_spikes/oSpawn_ice_spikes.yy",},
     {"name":"sPlayer_right","order":5,"path":"sprites/sPlayer_right/sPlayer_right.yy",},
     {"name":"sPlayer_jump","order":17,"path":"sprites/sPlayer_jump/sPlayer_jump.yy",},
+    {"name":"sFlag","order":28,"path":"sprites/sFlag/sFlag.yy",},
     {"name":"sPlatformtile","order":7,"path":"sprites/sPlatformtile/sPlatformtile.yy",},
     {"name":"sWall","order":7,"path":"sprites/sWall/sWall.yy",},
     {"name":"sTraps","order":5,"path":"sprites/sTraps/sTraps.yy",},
     {"name":"icebergsonly","order":26,"path":"sprites/icebergsonly/icebergsonly.yy",},
     {"name":"oGame","order":1,"path":"objects/oGame/oGame.yy",},
     {"name":"oIcespike","order":5,"path":"objects/oIcespike/oIcespike.yy",},
+    {"name":"oFlag","order":2,"path":"objects/oFlag/oFlag.yy",},
     {"name":"snd_nom","order":1,"path":"sounds/snd_nom/snd_nom.yy",},
     {"name":"oSnowball","order":4,"path":"objects/oSnowball/oSnowball.yy",},
     {"name":"sPlatformleftcorner","order":8,"path":"sprites/sPlatformleftcorner/sPlatformleftcorner.yy",},
@@ -37,9 +40,9 @@
     {"name":"sIcebackground","order":2,"path":"sprites/sIcebackground/sIcebackground.yy",},
     {"name":"sSnowball","order":10,"path":"sprites/sSnowball/sSnowball.yy",},
     {"name":"sPew","order":3,"path":"sprites/sPew/sPew.yy",},
-    {"name":"oIgloo","order":8,"path":"objects/oIgloo/oIgloo.yy",},
     {"name":"sPlayer_slide","order":16,"path":"sprites/sPlayer_slide/sPlayer_slide.yy",},
     {"name":"oFish","order":13,"path":"objects/oFish/oFish.yy",},
+    {"name":"oCheckpoint_Controller","order":1,"path":"objects/oCheckpoint_Controller/oCheckpoint_Controller.yy",},
     {"name":"oParallax","order":4,"path":"objects/oParallax/oParallax.yy",},
   ],
 }
