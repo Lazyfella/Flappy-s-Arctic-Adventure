@@ -1,3 +1,4 @@
+
 // Get inputs
 var _keyRight = keyboard_check(vk_right);
 var _keyLeft = keyboard_check(vk_left);

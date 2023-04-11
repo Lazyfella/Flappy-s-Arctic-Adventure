@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sIcespikes",
-    "path": "sprites/sIcespikes/sIcespikes.yy",
+    "name": "icespikesnosnow",
+    "path": "sprites/icespikesnosnow/icespikesnosnow.yy",
   },
   "spriteMaskId": null,
   "visible": true,

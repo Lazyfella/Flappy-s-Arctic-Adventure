@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sTraps",
-    "path": "sprites/sTraps/sTraps.yy",
+    "name": "icespikesnew",
+    "path": "sprites/icespikesnew/icespikesnew.yy",
   },
   "spriteMaskId": null,
   "visible": true,
