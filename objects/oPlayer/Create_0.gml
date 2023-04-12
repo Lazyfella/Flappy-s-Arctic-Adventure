@@ -1,5 +1,5 @@
 /// @description
-friction = 0.1;
+friction = 0.02;
 grv = 0.4;
 hsp = 0;
 maxHsp = 3;

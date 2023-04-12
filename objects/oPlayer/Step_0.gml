@@ -70,13 +70,13 @@ else
 {
     y += vsp;
 }
-
+/*
 // Apply friction to vertical movement
 if (canJump > 0)
 {
-    vsp *= 1 - friction;
+    //vsp *= 1 - friction;
 }
-
+*/
 if (abs(hsp) > maxHsp) {
     hsp = sign(hsp) * maxHsp;
 }
