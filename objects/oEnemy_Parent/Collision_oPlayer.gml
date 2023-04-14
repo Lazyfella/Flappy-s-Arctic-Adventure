@@ -7,6 +7,7 @@ if (!has_triggered) {
 	//ScreenShake(6,60);
     //other.state_animation = Animation.dead;
     alarm_set(0, room_speed * 0.5);
+	enemyHP -= 1;
 }
 if (oPlayer.HP <= 0) {
     // Reset the room

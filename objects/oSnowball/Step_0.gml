@@ -8,3 +8,7 @@ if (place_meeting(x + lengthdir_x(speed, direction), y, oWall)) {
     // Reverse direction if colliding with a wall
     direction = 180 - direction;
 }
+
+if (enemyHP <= 0) {
+   instance_destroy()
+}
