@@ -1,4 +1,5 @@
 /// @description
+
 var main   = layer_get_id("Background_main");
 var near   = layer_get_id("Background_Near");
 var distant   = layer_get_id("Background_Distant");

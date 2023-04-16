@@ -1,5 +1,15 @@
-/// @description Insert description here
-// You can write your code in this editor
-//draw_set_font(font); // set the font you want to use
-draw_set_color(c_white); // set the color you want to use
-draw_text(25, 25, "Hypometer: " + string(hypometer)); // draw the text
+
+// Check if the cold meter value is exactly 1000
+if (hypometer == 1000) {
+    // Draw the full sprite if the cold meter is full
+    draw_sprite(sHypometerframes, 6, x, y);
+}
+else {
+    // Calculate the percentage and frame index as before
+    var percentage = clamp(hypometer / 1000, 0, 1);
+    var num_frames = 7;
+    var frame_index = floor(percentage * num_frames);
+    
+    // Draw the sprite using the calculated frame index
+    draw_sprite(sHypometerframes, frame_index, x, y);
+}

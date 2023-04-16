@@ -14,5 +14,5 @@ if (is_enabled) {
     }
     
     // Spawn a new oFlag instance
-    instance_create_depth(x + 30, y, depth + 1, oFlag);
+    instance_create_depth(x + 32.5, y, depth + 1, oFlag);
 }
