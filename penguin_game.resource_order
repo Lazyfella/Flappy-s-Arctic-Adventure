@@ -61,6 +61,7 @@
     {"name":"hypometer_5","order":4,"path":"sprites/hypometer_5/hypometer_5.yy",},
     {"name":"sSleepingwalross","order":4,"path":"sprites/sSleepingwalross/sSleepingwalross.yy",},
     {"name":"sIcebackground","order":2,"path":"sprites/sIcebackground/sIcebackground.yy",},
+    {"name":"r_level2","order":2,"path":"rooms/r_level2/r_level2.yy",},
     {"name":"sSnowball","order":10,"path":"sprites/sSnowball/sSnowball.yy",},
     {"name":"Sprite44","order":1,"path":"sprites/Sprite44/Sprite44.yy",},
     {"name":"sPew","order":3,"path":"sprites/sPew/sPew.yy",},
