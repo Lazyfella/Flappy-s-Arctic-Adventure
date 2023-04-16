@@ -1,10 +1,8 @@
-
-
 if (follow != noone)
 {
     // Calculate the x and y position to follow the player with a margin of half the screen width/height
     var xTo = clamp(follow.x - (camWidth * 0.5), 0 + camMarginX, room_width - camWidth - camMarginX);
-	var yTo = clamp(follow.y - (camHeight * 0.5), 0 + camMarginY, room_height - camHeight - camMarginY);
+	var yTo = clamp(follow.y - (camHeight * 0.5) -30, 0 + camMarginY, room_height - camHeight - camMarginY);
 
     // Smoothly move the camera towards the target position
     x += (xTo - x) / 10;

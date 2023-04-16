@@ -3,8 +3,7 @@ camWidth = 320; // Width of camera view
 camHeight = 180; // Height of camera view
 camMarginX = 10; // Horizontal margin
 camMarginY = 10; // Vertical margin
-camZoom = 0.7; // Zoom level
-
+camZoom = 0.65; // Zoom level
 
 follow = oPlayer;
 
