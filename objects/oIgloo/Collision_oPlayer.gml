@@ -16,3 +16,4 @@ if (is_enabled) {
     // Spawn a new oFlag instance
     instance_create_depth(x + 32.5, y, depth + 1, oFlag);
 }
+room_goto(r_level2);
