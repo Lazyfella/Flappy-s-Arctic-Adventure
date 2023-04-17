@@ -7,6 +7,7 @@
     {"name":"Hypometer","order":38,"path":"folders/Sprites/Hypometer.yy",},
   ],
   "ResourceOrderSettings": [
+    {"name":"r_level3","order":4,"path":"rooms/r_level3/r_level3.yy",},
     {"name":"sParallax2","order":15,"path":"sprites/sParallax2/sParallax2.yy",},
     {"name":"oWalross","order":4,"path":"objects/oWalross/oWalross.yy",},
     {"name":"hypometer_3","order":2,"path":"sprites/hypometer_3/hypometer_3.yy",},
@@ -20,6 +21,7 @@
     {"name":"sPlatformtile","order":7,"path":"sprites/sPlatformtile/sPlatformtile.yy",},
     {"name":"sWall","order":7,"path":"sprites/sWall/sWall.yy",},
     {"name":"oKillerWhaleSpawned","order":7,"path":"objects/oKillerWhaleSpawned/oKillerWhaleSpawned.yy",},
+    {"name":"tilsets","order":1,"path":"sprites/tilsets/tilsets.yy",},
     {"name":"snd_fishcollected","order":3,"path":"sounds/snd_fishcollected/snd_fishcollected.yy",},
     {"name":"sTraps","order":5,"path":"sprites/sTraps/sTraps.yy",},
     {"name":"Object19","order":17,"path":"objects/Object19/Object19.yy",},
