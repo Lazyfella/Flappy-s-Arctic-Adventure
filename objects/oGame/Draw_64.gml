@@ -1,6 +1,11 @@
 /// @description
+// Draw the score
+
+
 
 // Draw the score
-draw_sprite(sFish, 0, 25, 50);
-draw_text(60, 54, string(global.score) + " / " + string(global.max_score));
+draw_set_font(fFont);
+draw_set_color(c_orange);
+draw_text(40, 125, string(global.score) + " / " + string(global.max_score));
+draw_sprite(sFishGUI, 0, 135, 135);
 show_debug_overlay(true);

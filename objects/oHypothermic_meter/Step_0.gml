@@ -6,3 +6,4 @@ if (hypometer <= 0 && show_hypothermic_message) {
     show_hypothermic_message = false; // set the variable to false so the message is only shown once
 }
 
+
