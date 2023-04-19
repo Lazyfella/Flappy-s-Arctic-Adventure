@@ -103,6 +103,7 @@
     {"id":{"name":"oHypothermic_meter","path":"objects/oHypothermic_meter/oHypothermic_meter.yy",},},
     {"id":{"name":"sn_boll","path":"sprites/sn_boll/sn_boll.yy",},},
     {"id":{"name":"r_level1","path":"rooms/r_level1/r_level1.yy",},},
+    {"id":{"name":"snd_wind","path":"sounds/snd_wind/snd_wind.yy",},},
     {"id":{"name":"oHearts","path":"objects/oHearts/oHearts.yy",},},
     {"id":{"name":"hypometer_5","path":"sprites/hypometer_5/hypometer_5.yy",},},
     {"id":{"name":"sSleepingwalross","path":"sprites/sSleepingwalross/sSleepingwalross.yy",},},

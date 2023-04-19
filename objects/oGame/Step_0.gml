@@ -14,5 +14,6 @@ if (oHypothermic_meter.hypometer <= 0) {
 	audio_stop_all();
     room_restart();
 	audio_play_sound(Sound_theme_music,1,1);
+	audio_play_sound(snd_wind,2,1);
 	global.score = 0;
 }
