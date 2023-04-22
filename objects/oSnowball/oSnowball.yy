@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "sSnowball",
-    "path": "sprites/sSnowball/sSnowball.yy",
+    "name": "sn_boll29",
+    "path": "sprites/sn_boll29/sn_boll29.yy",
   },
   "spriteMaskId": null,
   "visible": true,
