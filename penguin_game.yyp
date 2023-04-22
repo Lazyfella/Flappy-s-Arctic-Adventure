@@ -39,7 +39,11 @@
   },
   "resources": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"r_level3","path":"rooms/r_level3/r_level3.yy",},},
+=======
+    {"id":{"name":"r_level2","path":"rooms/r_level2/r_level2.yy",},},
+>>>>>>> Stashed changes
 =======
     {"id":{"name":"r_level2","path":"rooms/r_level2/r_level2.yy",},},
 >>>>>>> Stashed changes
@@ -138,11 +142,14 @@
     {"roomId":{"name":"r_level3","path":"rooms/r_level3/r_level3.yy",},},
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"roomId":{"name":"tutorial_level","path":"rooms/tutorial_level/tutorial_level.yy",},},
 =======
 >>>>>>> Stashed changes
 =======
     {"roomId":{"name":"r_level4","path":"rooms/r_level4/r_level4.yy",},},
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   ],
   "TextureGroups": [

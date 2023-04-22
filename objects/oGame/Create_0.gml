@@ -9,6 +9,10 @@ showed_message = false;
 
 audio_play_sound(Sound_theme_music,1,1);
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes

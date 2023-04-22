@@ -8,6 +8,7 @@
   "inheritLayers": false,
   "instanceCreationOrder": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"inst_9EEA0BB_1_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_49DD2BC2_1_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_532CD79B_1_1","path":"rooms/r_level3/r_level3.yy",},
@@ -113,6 +114,8 @@
     {"name":"inst_2B793A05","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_6E450C3E","path":"rooms/r_level3/r_level3.yy",},
 =======
+=======
+>>>>>>> Stashed changes
     {"name":"inst_9EEA0BB_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_49DD2BC2_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_669825EB_1","path":"rooms/r_level3/r_level3.yy",},
@@ -209,11 +212,15 @@
     {"name":"inst_3A833811","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_55E280AE","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_64E2D540","path":"rooms/r_level3/r_level3.yy",},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   ],
   "isDnd": false,
   "layers": [
     {"resourceType":"GMRTileLayer","resourceVersion":"1.1","name":"Tiles_1","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"tiles":{"SerialiseHeight":25,"SerialiseWidth":94,"TileCompressedData":[
+<<<<<<< Updated upstream
 <<<<<<< Updated upstream
 -245,-2147483648,2,8,9,-92,-2147483648,2,8,9,-35,-2147483648,1,27,-56,-2147483648,2,8,9,-35,-2147483648,1,9,-56,-2147483648,2,8,9,-35,-2147483648,1,9,-61,-2147483648,10,4,5,6,5,6,5,6,5,6,7,-21,-2147483648,-2,9,-60,-2147483648,11,27,9,10,9,10,9,10,9,10,9,10,-21,-2147483648,-2,9,-60,-2147483648,11,8,9,18,19,18,19,18,19,19,18,19,-21,-2147483648,-2,9,-59,-2147483648,16,27,8,9,18,19,18,
 19,18,19,19,18,19,-2147483648,-2147483648,24,25,-7,-2147483648,2,24,25,-8,-2147483648,-2,9,-61,-2147483648,14,9,18,19,18,19,18,19,19,18,19,-2147483648,-2147483648,18,19,-7,-2147483648,12,18,19,-2147483648,-2147483648,4,5,7,-2147483648,24,25,9,9,-39,-2147483648,8,4,5,5,6,5,5,6,7,-9,-2147483648,1,27,-4,-2147483648,27,9,18,19,18,19,18,19,19,18,19,-2147483648,-2147483648,18,19,4,5,6,5,5,6,7,18,19,-2147483648,-2147483648,
@@ -340,6 +347,8 @@
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background_Distant","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"parallaxnew2","path":"sprites/parallaxnew2/parallaxnew2.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background_BK_COLOR","animationFPS":15.0,"animationSpeedType":0,"colour":4294761419,"depth":900,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
 =======
+=======
+>>>>>>> Stashed changes
 -98,-2147483648,1,25,-8,-2147483648,1,25,-84,-2147483648,1,25,-8,-2147483648,1,25,-84,-2147483648,1,31,-8,-2147483648,1,25,-80,-2147483648,1,25,-3,-2147483648,6,14,16,17,-2147483648,-2147483648,31,-3,-2147483648,1,31,-80,-2147483648,1,31,-3,-2147483648,1,25,-3,-2147483648,2,14,17,-3,-2147483648,1,25,-80,-2147483648,1,25,-3,-2147483648,5,25,-2147483648,-2147483648,14,17,-4,-2147483648,1,31,-14,-2147483648,1,31,-65,-2147483648,1,31,-3,-2147483648,1,31,-3,-2147483648,1,25,-3,-2147483648,2,14,
 17,-12,-2147483648,3,14,16,17,-65,-2147483648,9,14,15,17,-2147483648,14,17,-2147483648,-2147483648,31,-4,-2147483648,1,25,-12,-2147483648,1,27,-67,-2147483648,1,25,-3,-2147483648,1,26,-3,-2147483648,2,14,17,-3,-2147483648,1,31,-10,-2147483648,3,14,16,17,-15,-2147483648,1,25,-51,-2147483648,9,25,-2147483648,14,15,17,-2147483648,-2147483648,14,17,-3,-2147483648,2,14,17,-10,-2147483648,1,27,-5,-2147483648,2,14,17,-10,-2147483648,1,25,-51,-2147483648,1,31,-3,-2147483648,1,26,-3,-2147483648,
 1,25,-4,-2147483648,1,25,-8,-2147483648,3,14,16,17,-17,-2147483648,1,31,-25,-2147483648,2,31,32,-24,-2147483648,9,14,15,17,-2147483648,14,17,-2147483648,-2147483648,31,-4,-2147483648,1,31,-8,-2147483648,1,33,-24,-2147483648,1,24,-20,-2147483648,2,31,32,-24,-2147483648,1,25,-3,-2147483648,1,26,-3,-2147483648,6,14,15,17,-2147483648,-2147483648,25,-6,-2147483648,3,14,16,17,-5,-2147483648,2,14,17,-17,-2147483648,1,30,-23,-2147483648,2,14,17,-21,-2147483648,9,31,-2147483648,14,15,
@@ -455,6 +464,9 @@
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background_Near","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"parallaxnew1","path":"sprites/parallaxnew1/parallaxnew1.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background_Distant","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":800,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"parallaxnew2","path":"sprites/parallaxnew2/parallaxnew2.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background_BK_COLOR","animationFPS":15.0,"animationSpeedType":0,"colour":4291604900,"depth":900,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   ],
   "parent": {

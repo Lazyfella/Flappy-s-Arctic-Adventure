@@ -8,9 +8,12 @@
   ],
   "ResourceOrderSettings": [
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"r_level3","order":4,"path":"rooms/r_level3/r_level3.yy",},
     {"name":"sParallax2","order":10,"path":"sprites/sParallax2/sParallax2.yy",},
 =======
+=======
+>>>>>>> Stashed changes
     {"name":"r_level2","order":4,"path":"rooms/r_level2/r_level2.yy",},
     {"name":"sParallax2","order":15,"path":"sprites/sParallax2/sParallax2.yy",},
 >>>>>>> Stashed changes
@@ -67,8 +70,11 @@
     {"name":"hypometer_6","order":5,"path":"sprites/hypometer_6/hypometer_6.yy",},
     {"name":"oWall","order":1,"path":"objects/oWall/oWall.yy",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"spr_hearts","order":13,"path":"sprites/spr_hearts/spr_hearts.yy",},
 =======
+=======
+>>>>>>> Stashed changes
     {"name":"oFade","order":5,"path":"objects/oFade/oFade.yy",},
     {"name":"spr_hearts","order":18,"path":"sprites/spr_hearts/spr_hearts.yy",},
 >>>>>>> Stashed changes
@@ -85,7 +91,13 @@
     {"name":"sPlayer_left","order":3,"path":"sprites/sPlayer_left/sPlayer_left.yy",},
     {"name":"sSleepingwalross1","order":1,"path":"sprites/sSleepingwalross1/sSleepingwalross1.yy",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"igloonew","order":17,"path":"sprites/igloonew/igloonew.yy",},
+=======
+    {"name":"oIglooGoal","order":3,"path":"objects/oIglooGoal/oIglooGoal.yy",},
+    {"name":"igloonew","order":27,"path":"sprites/igloonew/igloonew.yy",},
+    {"name":"iglooGoal","order":41,"path":"sprites/iglooGoal/iglooGoal.yy",},
+>>>>>>> Stashed changes
 =======
     {"name":"oIglooGoal","order":3,"path":"objects/oIglooGoal/oIglooGoal.yy",},
     {"name":"igloonew","order":27,"path":"sprites/igloonew/igloonew.yy",},
@@ -100,15 +112,21 @@
     {"name":"hypometer_5","order":4,"path":"sprites/hypometer_5/hypometer_5.yy",},
     {"name":"sSleepingwalross","order":4,"path":"sprites/sSleepingwalross/sSleepingwalross.yy",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"name":"sIcebackground","order":1,"path":"sprites/sIcebackground/sIcebackground.yy",},
     {"name":"r_level2","order":2,"path":"rooms/r_level2/r_level2.yy",},
     {"name":"sSnowball","order":8,"path":"sprites/sSnowball/sSnowball.yy",},
     {"name":"Sprite44","order":1,"path":"sprites/Sprite44/Sprite44.yy",},
 =======
+=======
+>>>>>>> Stashed changes
     {"name":"sIcebackground","order":2,"path":"sprites/sIcebackground/sIcebackground.yy",},
     {"name":"r_level3","order":2,"path":"rooms/r_level3/r_level3.yy",},
     {"name":"oFlagGoal","order":4,"path":"objects/oFlagGoal/oFlagGoal.yy",},
     {"name":"sSnowball","order":10,"path":"sprites/sSnowball/sSnowball.yy",},
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"name":"sPew","order":3,"path":"sprites/sPew/sPew.yy",},
     {"name":"sPlayer_slide","order":11,"path":"sprites/sPlayer_slide/sPlayer_slide.yy",},

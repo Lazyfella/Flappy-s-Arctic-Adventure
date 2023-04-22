@@ -9,7 +9,11 @@
     "TileSerialiseData": [],
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "out_columns": 7,
+=======
+  "out_columns": 6,
+>>>>>>> Stashed changes
 =======
   "out_columns": 6,
 >>>>>>> Stashed changes
@@ -21,8 +25,13 @@
   },
   "spriteId": {
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "name": "tilesetfinished",
     "path": "sprites/tilesetfinished/tilesetfinished.yy",
+=======
+    "name": "tilsets",
+    "path": "sprites/tilsets/tilsets.yy",
+>>>>>>> Stashed changes
 =======
     "name": "tilsets",
     "path": "sprites/tilsets/tilsets.yy",
@@ -34,7 +43,11 @@
     "path": "texturegroups/Default",
   },
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
   "tile_count": 48,
+=======
+  "tile_count": 36,
+>>>>>>> Stashed changes
 =======
   "tile_count": 36,
 >>>>>>> Stashed changes
@@ -77,6 +90,7 @@
       34,
       35,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
       36,
       37,
       38,
@@ -89,6 +103,8 @@
       45,
       46,
       47,
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     ],
