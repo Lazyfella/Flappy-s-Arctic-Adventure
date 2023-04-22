@@ -11,7 +11,7 @@ if (hypometer <= 0 && show_hypothermic_message) {
 }
 
 if (hypometer <= 700 && show_hypothermic_message) {
-    audio_play_sound(snd_wind,2,1);
+    //audio_play_sound(snd_wind,2,1);
     show_hypothermic_message = false; // set the variable to false so the message is only shown once
     layer_enable_fx("ColdEffect", true); // enable the effect
     layer_enable_fx("ColdEffectBlur", true);

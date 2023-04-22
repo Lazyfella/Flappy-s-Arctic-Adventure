@@ -65,7 +65,6 @@
     {"name":"oHypothermic_meter","order":3,"path":"objects/oHypothermic_meter/oHypothermic_meter.yy",},
     {"name":"sn_boll","order":2,"path":"sprites/sn_boll/sn_boll.yy",},
     {"name":"r_level1","order":1,"path":"rooms/r_level1/r_level1.yy",},
-    {"name":"snd_wind","order":4,"path":"sounds/snd_wind/snd_wind.yy",},
     {"name":"oHearts","order":2,"path":"objects/oHearts/oHearts.yy",},
     {"name":"hypometer_5","order":4,"path":"sprites/hypometer_5/hypometer_5.yy",},
     {"name":"sSleepingwalross","order":4,"path":"sprites/sSleepingwalross/sSleepingwalross.yy",},
