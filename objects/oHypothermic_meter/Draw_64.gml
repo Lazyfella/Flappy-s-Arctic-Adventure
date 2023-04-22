@@ -2,7 +2,7 @@
 // Check if the cold meter value is exactly 1000
 if (hypometer == 1000) {
     // Draw the full sprite if the cold meter is full
-    draw_sprite(sHypometerframes, 6, x, y);
+    draw_sprite(sHypometerframes, 6, 35, 175);
 }
 else {
     // Calculate the percentage and frame index as before
@@ -11,5 +11,5 @@ else {
     var frame_index = floor(percentage * num_frames);
     
     // Draw the sprite using the calculated frame index
-    draw_sprite(sHypometerframes, frame_index, x, y);
+    draw_sprite(sHypometerframes, frame_index, 35, 175);
 }

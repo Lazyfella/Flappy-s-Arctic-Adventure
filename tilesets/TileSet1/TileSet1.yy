@@ -8,7 +8,11 @@
     "SerialiseWidth": 0,
     "TileSerialiseData": [],
   },
+<<<<<<< Updated upstream
   "out_columns": 7,
+=======
+  "out_columns": 6,
+>>>>>>> Stashed changes
   "out_tilehborder": 2,
   "out_tilevborder": 2,
   "parent": {
@@ -16,15 +20,24 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
+<<<<<<< Updated upstream
     "name": "tilesetfinished",
     "path": "sprites/tilesetfinished/tilesetfinished.yy",
+=======
+    "name": "tilsets",
+    "path": "sprites/tilsets/tilsets.yy",
+>>>>>>> Stashed changes
   },
   "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
   },
+<<<<<<< Updated upstream
   "tile_count": 48,
+=======
+  "tile_count": 36,
+>>>>>>> Stashed changes
   "tileAnimation": {
     "FrameData": [
       0,
@@ -63,6 +76,7 @@
       33,
       34,
       35,
+<<<<<<< Updated upstream
       36,
       37,
       38,
@@ -75,6 +89,8 @@
       45,
       46,
       47,
+=======
+>>>>>>> Stashed changes
     ],
     "SerialiseFrameCount": 1,
   },

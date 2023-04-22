@@ -5,6 +5,8 @@ if (is_enabled) {
     
     global.chchpoint_x = x + 25;
     global.chchpoint_y = y;
+	
+	audio_play_sound(snd_fishcollected, 10, false);
     
     // Delete all other instances of oFlag in the room
     with(oFlag) {

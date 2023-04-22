@@ -8,3 +8,12 @@ if (global.score >= global.max_score && !showed_message) {
   audio_play_sound(snd_fishcollected,5,false,)
   //show_message("Max HP: " + string(oPlayer.maxHP));
 }
+
+if (oHypothermic_meter.hypometer <= 0) {
+    // Reset the room
+	audio_stop_all();
+    room_restart();
+	audio_play_sound(Sound_theme_music,1,1);
+	audio_play_sound(snd_wind,2,1);
+	global.score = 0;
+}
