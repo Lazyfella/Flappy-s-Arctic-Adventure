@@ -73,6 +73,7 @@
     {"id":{"name":"icespikesnew","path":"sprites/icespikesnew/icespikesnew.yy",},},
     {"id":{"name":"tilesetfinished","path":"sprites/tilesetfinished/tilesetfinished.yy",},},
     {"id":{"name":"hypometerfull","path":"sprites/hypometerfull/hypometerfull.yy",},},
+    {"id":{"name":"r_level4","path":"rooms/r_level4/r_level4.yy",},},
     {"id":{"name":"Sprite30","path":"sprites/Sprite30/Sprite30.yy",},},
     {"id":{"name":"oEnemy_Parent","path":"objects/oEnemy_Parent/oEnemy_Parent.yy",},},
     {"id":{"name":"parallaxnew1","path":"sprites/parallaxnew1/parallaxnew1.yy",},},
@@ -136,8 +137,12 @@
     {"roomId":{"name":"r_level2","path":"rooms/r_level2/r_level2.yy",},},
     {"roomId":{"name":"r_level3","path":"rooms/r_level3/r_level3.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"roomId":{"name":"tutorial_level","path":"rooms/tutorial_level/tutorial_level.yy",},},
 =======
+>>>>>>> Stashed changes
+=======
+    {"roomId":{"name":"r_level4","path":"rooms/r_level4/r_level4.yy",},},
 >>>>>>> Stashed changes
   ],
   "TextureGroups": [

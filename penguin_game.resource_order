@@ -44,7 +44,12 @@
     {"name":"icespikesnew","order":22,"path":"sprites/icespikesnew/icespikesnew.yy",},
     {"name":"tilesetfinished","order":28,"path":"sprites/tilesetfinished/tilesetfinished.yy",},
     {"name":"hypometerfull","order":7,"path":"sprites/hypometerfull/hypometerfull.yy",},
+<<<<<<< Updated upstream
     {"name":"Sprite30","order":20,"path":"sprites/Sprite30/Sprite30.yy",},
+=======
+    {"name":"r_level4","order":5,"path":"rooms/r_level4/r_level4.yy",},
+    {"name":"Sprite30","order":32,"path":"sprites/Sprite30/Sprite30.yy",},
+>>>>>>> Stashed changes
     {"name":"oEnemy_Parent","order":5,"path":"objects/oEnemy_Parent/oEnemy_Parent.yy",},
     {"name":"parallaxnew1","order":25,"path":"sprites/parallaxnew1/parallaxnew1.yy",},
     {"name":"icebergsonly","order":16,"path":"sprites/icebergsonly/icebergsonly.yy",},
