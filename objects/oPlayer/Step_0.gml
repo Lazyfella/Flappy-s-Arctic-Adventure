@@ -33,11 +33,13 @@ if (canJump > 0 && _keyJump)
     canJump = 0;
     jumpCount = 1;
 	//sprite_index = sPlayer_jump; Not working well, sprites are dif sizes
+	audio_play_sound(snd_jump,10,false);
 }
 else if (jumpCount == 1 && _keyJump)
 {
     vsp = -6; //Double jump
     jumpCount = 2;
+	audio_play_sound(snd_jump,10,false);
 }
 
 // Collide and move horizontally

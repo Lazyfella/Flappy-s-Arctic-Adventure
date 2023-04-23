@@ -11,7 +11,6 @@
     {"name":"inst_49DD2BC2_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_669825EB_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_783DA323_1","path":"rooms/r_level3/r_level3.yy",},
-    {"name":"inst_15F1B39F_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_16C5825_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_6ABD83A8_1","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_4A102AC4_1","path":"rooms/r_level3/r_level3.yy",},
@@ -110,6 +109,7 @@
     {"name":"inst_E0BCC83","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_46413FFC","path":"rooms/r_level3/r_level3.yy",},
     {"name":"inst_54DC075D","path":"rooms/r_level3/r_level3.yy",},
+    {"name":"inst_345D4134","path":"rooms/r_level3/r_level3.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -230,8 +230,8 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Collision","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_669825EB_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oIgloo","path":"objects/oIgloo/oIgloo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":448.0,"y":416.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_783DA323_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oIgloo","path":"objects/oIgloo/oIgloo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":704.0,"y":512.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_15F1B39F_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oIgloo","path":"objects/oIgloo/oIgloo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2240.0,"y":512.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_55E280AE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oIgloo","path":"objects/oIgloo/oIgloo.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":224.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_345D4134","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"oIglooGoal","path":"objects/oIglooGoal/oIglooGoal.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2272.0,"y":512.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":true,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background_Main","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"glaciernew2","path":"sprites/glaciernew2/glaciernew2.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
     {"resourceType":"GMRBackgroundLayer","resourceVersion":"1.0","name":"Background_Near","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":700,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"spriteId":{"name":"parallaxnew1","path":"sprites/parallaxnew1/parallaxnew1.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
