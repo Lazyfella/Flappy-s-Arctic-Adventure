@@ -33,8 +33,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "icespikesnosnow",
-    "path": "sprites/icespikesnosnow/icespikesnosnow.yy",
+    "name": "icespikesideways_export",
+    "path": "sprites/icespikesideways_export/icespikesideways_export.yy",
   },
   "spriteMaskId": null,
   "visible": true,
