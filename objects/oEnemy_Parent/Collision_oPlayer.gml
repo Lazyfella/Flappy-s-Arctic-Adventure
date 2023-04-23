@@ -6,7 +6,8 @@ if (!has_triggered) {
 	audio_play_sound(snd_death, 1, false);
 	//ScreenShake(6,60);
     //other.state_animation = Animation.dead;
-    alarm_set(0, room_speed * 0.5);
+    //alarm_set(0, room_speed * 0.5);
+	alarm[0] = 1;
 	enemyHP -= 1;
 }
 if (oPlayer.HP <= 0) {
