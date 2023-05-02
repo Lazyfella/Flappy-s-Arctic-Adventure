@@ -6,6 +6,6 @@ global.score = 0;
 global.max_score = instance_number(oFish);
 showed_message = false;
 
-
+audio_stop_all();
 audio_play_sound(Sound_theme_music,1,1);
 
