@@ -40,6 +40,7 @@
     {"name":"oKillerWhale","order":6,"path":"objects/oKillerWhale/oKillerWhale.yy",},
     {"name":"oFlag","order":2,"path":"objects/oFlag/oFlag.yy",},
     {"name":"glaciernew","order":24,"path":"sprites/glaciernew/glaciernew.yy",},
+    {"name":"r_level4","order":6,"path":"rooms/r_level4/r_level4.yy",},
     {"name":"snd_nom","order":1,"path":"sounds/snd_nom/snd_nom.yy",},
     {"name":"sFlag","order":27,"path":"sprites/sFlag/sFlag.yy",},
     {"name":"oSnowball","order":1,"path":"objects/oSnowball/oSnowball.yy",},
