@@ -107,6 +107,7 @@
     {"id":{"name":"oTraps","path":"objects/oTraps/oTraps.yy",},},
     {"id":{"name":"caveparallax2","path":"sprites/caveparallax2/caveparallax2.yy",},},
     {"id":{"name":"sParallax1","path":"sprites/sParallax1/sParallax1.yy",},},
+    {"id":{"name":"r_level4","path":"rooms/r_level4/r_level4.yy",},},
     {"id":{"name":"sPlayerDead","path":"sprites/sPlayerDead/sPlayerDead.yy",},},
     {"id":{"name":"sPlayer_idle","path":"sprites/sPlayer_idle/sPlayer_idle.yy",},},
     {"id":{"name":"oTrapInvisible","path":"objects/oTrapInvisible/oTrapInvisible.yy",},},
