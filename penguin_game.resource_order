@@ -2,10 +2,10 @@
   "FolderOrderSettings": [
     {"name":"Checkpoint","order":14,"path":"folders/Objects/Checkpoint.yy",},
     {"name":"Enemies","order":15,"path":"folders/Objects/Enemies.yy",},
+    {"name":"Menu","order":18,"path":"folders/Objects/Menu.yy",},
     {"name":"Systems","order":12,"path":"folders/Objects/Systems.yy",},
     {"name":"Enemies","order":15,"path":"folders/Sprites/Enemies.yy",},
     {"name":"Hypometer","order":26,"path":"folders/Sprites/Hypometer.yy",},
-    {"name":"Menu","order":18,"path":"folders/Objects/Menu.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"r_level2","order":4,"path":"rooms/r_level2/r_level2.yy",},
@@ -76,6 +76,7 @@
     {"name":"igloonew","order":17,"path":"sprites/igloonew/igloonew.yy",},
     {"name":"iglooGoal","order":29,"path":"sprites/iglooGoal/iglooGoal.yy",},
     {"name":"oHypothermic_meter","order":3,"path":"objects/oHypothermic_meter/oHypothermic_meter.yy",},
+    {"name":"oMenuMusic","order":5,"path":"objects/oMenuMusic/oMenuMusic.yy",},
     {"name":"Sprite51","order":33,"path":"sprites/Sprite51/Sprite51.yy",},
     {"name":"sn_boll","order":2,"path":"sprites/sn_boll/sn_boll.yy",},
     {"name":"r_level1","order":1,"path":"rooms/r_level1/r_level1.yy",},
@@ -92,6 +93,8 @@
     {"name":"sSnowball","order":8,"path":"sprites/sSnowball/sSnowball.yy",},
     {"name":"sPew","order":3,"path":"sprites/sPew/sPew.yy",},
     {"name":"sPlayer_slide","order":11,"path":"sprites/sPlayer_slide/sPlayer_slide.yy",},
+    {"name":"image","order":38,"path":"sprites/image/image.yy",},
+    {"name":"snd_menu_music","order":8,"path":"sounds/snd_menu_music/snd_menu_music.yy",},
     {"name":"parallaxnew2","order":23,"path":"sprites/parallaxnew2/parallaxnew2.yy",},
     {"name":"oFish","order":13,"path":"objects/oFish/oFish.yy",},
     {"name":"oCheckpoint_Controller","order":1,"path":"objects/oCheckpoint_Controller/oCheckpoint_Controller.yy",},
