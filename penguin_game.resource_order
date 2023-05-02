@@ -52,6 +52,7 @@
     {"name":"oSnowball","order":1,"path":"objects/oSnowball/oSnowball.yy",},
     {"name":"sPlatformleftcorner","order":7,"path":"sprites/sPlatformleftcorner/sPlatformleftcorner.yy",},
     {"name":"snd_jump","order":4,"path":"sounds/snd_jump/snd_jump.yy",},
+    {"name":"r_level4","order":7,"path":"rooms/r_level4/r_level4.yy",},
     {"name":"oPlayerDead","order":16,"path":"objects/oPlayerDead/oPlayerDead.yy",},
     {"name":"sFish","order":14,"path":"sprites/sFish/sFish.yy",},
     {"name":"hypometer_6","order":5,"path":"sprites/hypometer_6/hypometer_6.yy",},

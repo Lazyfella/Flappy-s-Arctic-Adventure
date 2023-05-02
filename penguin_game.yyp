@@ -38,7 +38,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.0.71",
+    "IDEVersion": "2023.2.1.75",
   },
   "resources": [
     {"id":{"name":"r_level2","path":"rooms/r_level2/r_level2.yy",},},
@@ -91,6 +91,7 @@
     {"id":{"name":"oSnowball","path":"objects/oSnowball/oSnowball.yy",},},
     {"id":{"name":"sPlatformleftcorner","path":"sprites/sPlatformleftcorner/sPlatformleftcorner.yy",},},
     {"id":{"name":"snd_jump","path":"sounds/snd_jump/snd_jump.yy",},},
+    {"id":{"name":"r_level4","path":"rooms/r_level4/r_level4.yy",},},
     {"id":{"name":"oPlayerDead","path":"objects/oPlayerDead/oPlayerDead.yy",},},
     {"id":{"name":"sFish","path":"sprites/sFish/sFish.yy",},},
     {"id":{"name":"hypometer_6","path":"sprites/hypometer_6/hypometer_6.yy",},},
@@ -145,6 +146,7 @@
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"r_level4","path":"rooms/r_level4/r_level4.yy",},},
     {"roomId":{"name":"r_menu","path":"rooms/r_menu/r_menu.yy",},},
     {"roomId":{"name":"r_level1_tutorial","path":"rooms/r_level1_tutorial/r_level1_tutorial.yy",},},
     {"roomId":{"name":"r_level1","path":"rooms/r_level1/r_level1.yy",},},
