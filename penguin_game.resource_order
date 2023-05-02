@@ -67,7 +67,6 @@
     {"name":"oTraps","order":3,"path":"objects/oTraps/oTraps.yy",},
     {"name":"caveparallax2","order":36,"path":"sprites/caveparallax2/caveparallax2.yy",},
     {"name":"sParallax1","order":9,"path":"sprites/sParallax1/sParallax1.yy",},
-    {"name":"r_level4","order":7,"path":"rooms/r_level4/r_level4.yy",},
     {"name":"sPlayerDead","order":18,"path":"sprites/sPlayerDead/sPlayerDead.yy",},
     {"name":"sPlayer_idle","order":2,"path":"sprites/sPlayer_idle/sPlayer_idle.yy",},
     {"name":"oTrapInvisible","order":8,"path":"objects/oTrapInvisible/oTrapInvisible.yy",},
