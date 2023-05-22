@@ -1,4 +1,9 @@
 {
   "FolderOrderSettings": [],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"oButtonTy","order":1,"path":"objects/oButtonTy/oButtonTy.yy",},
+    {"name":"oControls2","order":2,"path":"objects/oControls2/oControls2.yy",},
+    {"name":"sTY","order":1,"path":"sprites/sTY/sTY.yy",},
+    {"name":"r_endMenu","order":1,"path":"rooms/r_endMenu/r_endMenu.yy",},
+  ],
 }

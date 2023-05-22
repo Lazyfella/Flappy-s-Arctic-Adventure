@@ -1,0 +1,41 @@
+{
+  "resourceType": "GMObject",
+  "resourceVersion": "1.0",
+  "name": "oButtonTy",
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,},
+  ],
+  "managed": true,
+  "overriddenProperties": [
+    {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"obutton_parent","path":"objects/obutton_parent/obutton_parent.yy",},"propertyId":{"name":"button_text","path":"objects/obutton_parent/obutton_parent.yy",},"value":"Thank You!",},
+  ],
+  "parent": {
+    "name": "Menu",
+    "path": "folders/Objects/Menu.yy",
+  },
+  "parentObjectId": {
+    "name": "obutton_parent",
+    "path": "objects/obutton_parent/obutton_parent.yy",
+  },
+  "persistent": false,
+  "physicsAngularDamping": 0.1,
+  "physicsDensity": 0.5,
+  "physicsFriction": 0.2,
+  "physicsGroup": 1,
+  "physicsKinematic": false,
+  "physicsLinearDamping": 0.1,
+  "physicsObject": false,
+  "physicsRestitution": 0.1,
+  "physicsSensor": false,
+  "physicsShape": 1,
+  "physicsShapePoints": [],
+  "physicsStartAwake": true,
+  "properties": [],
+  "solid": false,
+  "spriteId": {
+    "name": "s_menubutton",
+    "path": "sprites/s_menubutton/s_menubutton.yy",
+  },
+  "spriteMaskId": null,
+  "visible": true,
+}
